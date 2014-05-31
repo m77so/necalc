@@ -1,0 +1,39 @@
+td{
+	text-align:center;
+}
+.tr-head td{
+	width:150px;
+}
+#place{width:100px;}
+input{
+	width:100%;
+	}
+.place{
+	position:relative;
+	width:100px;
+}
+.input-num{
+	text-align:right;
+	width:80px;
+	}
+.place-input{
+	position:absolute;
+	left:20px;
+	width:70px;
+}
+.checkbox{
+	position:absolute;
+	left:2px;
+	width:10px;
+}
+td .input-td{
+	padding:0px;
+	}
+.btn-line{
+	width:240px;
+	margin:10px;
+	}
+#io-text{
+	width:768px;
+	height:120px;
+}
